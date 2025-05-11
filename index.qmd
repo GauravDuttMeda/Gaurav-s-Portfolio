@@ -1,0 +1,68 @@
+---
+title: "Gaurav Dutt Meda"
+format: html
+theme: cosmo
+page-layout: full
+---
+
+# ![Headshot](headshot.jpg){width=100px style="border-radius: 50%;"}
+
+### MBA Candidate | Human Resources & Business Analytics  
+📍 Vancouver, BC | 📧 gauravduttmeda@gmail.com | 📞 +1 236-862-9141  
+🔗 [LinkedIn](https://linkedin.com/in/gaurav-dutt-meda)
+
+---
+
+## About Me
+A current MBA student with 2.3 years of experience as an HR Analyst, actively seeking entry-level HR and recruiting positions. With a robust foundation in HR analytics and data management, I am keen to expand my understanding of organizational culture and market dynamics. My analytical skills and ongoing academic pursuits enable me to contribute to HR functions effectively. Dedicated to continuous professional development, I am eager to gain insights into various HR aspects and significantly contribute to the industry.
+
+---
+
+## Education
+
+**MBA – Human Resources & Business Analytics**  
+*University Canada West, Vancouver, BC* (Expected June 2025)
+
+**Bachelor of Business Administration – Business Analytics**  
+*Kristu Jayanti College, Bangalore, India* (2018 – 2021)
+
+---
+
+## Professional Experience
+
+**Sr. HR Analyst – Capgemini Technology Services, Bangalore**  
+*Sep 2021 – Oct 2023*
+
+- Led end-to-end recruitment for technical and managerial roles, achieving a 20% reduction in time-to-hire.  
+- Collaborated with hiring managers to improve job postings and boost candidate quality by 15%.  
+- Conducted onboarding, background checks, and maintained accurate ATS records.  
+- Used Excel and Tableau to generate data insights for senior leadership and improve recruitment efficiency.
+
+---
+
+## Key Skills
+
+- Talent Acquisition & Sourcing  
+- HR Analytics & Reporting  
+- Diversity and Inclusion  
+- Onboarding & Background Checks  
+- Microsoft Excel, Tableau, ATS  
+- Python & SQL for Data Analysis  
+- Payroll & Compliance
+
+---
+
+## Certifications
+
+- **AWS Certified Cloud Practitioner** (2024–2027)  
+- **Python for Data Science – IBM** (Sep 2024)  
+- **Certified Digital Marketing Associate – DMI** (Jun 2024)
+
+---
+
+## Contact
+
+📧 gauravduttmeda@gmail.com  
+📞 +1 236-862-9141  
+🔗 [LinkedIn](https://linkedin.com/in/gaurav-dutt-meda)
+
